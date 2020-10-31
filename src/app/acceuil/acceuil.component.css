@@ -1,0 +1,29 @@
+.mat-form-field + .mat-form-field {
+    margin-left: 8px;
+  }
+  .extended{
+      width: 100px!important;
+  }
+
+.example-h2 {
+    margin: 10px;
+  }
+  
+  .example-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+  }
+  
+  .example-margin {
+    margin: 0 10px;
+  }
+  .large{
+    width: 100%;
+  }
+  .color{
+    color: #ffffff;
+    background-color: #B0F2B6;
+  }
+  
